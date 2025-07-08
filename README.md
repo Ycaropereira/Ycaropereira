@@ -4,4 +4,4 @@
 
 ![Ycaropereira GitHub stats](https://github-readme-stats.vercel.app/api?username=ycaropereira&show_icons=true&theme=radical)
 
-Cursando Engenharia de software e trabalhando como dev em uma instituição bancaria, sigo estudando programação com foco em backend, atualmente trabalhando e praticando muito Java.
+Cursando Engenharia de software e trabalhando como dev em uma instituição bancaria, sigo estudando programação com foco em backend, atualmente trabalhando e praticando Java.
